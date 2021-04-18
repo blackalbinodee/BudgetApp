@@ -1,2 +1,2 @@
-# MockAutomatedMachineTeller
-mock ATM 
+# Budget Class
+create a budget class
