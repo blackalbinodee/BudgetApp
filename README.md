@@ -1,0 +1,2 @@
+# MockAutomatedMachineTeller
+mock ATM 
